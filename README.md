@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <!-- Required meta tags-->
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
-    <meta name="description" content="My Classic Tech Lead Resume" />
-    <meta name="author" content="Ronald Kato" />
-    <meta name="keywords" content="Classic Tech Lead Resume" />
-
     <!-- Title Page-->
     <title>Ronald Kato's Resume</title>
 
@@ -23,9 +11,7 @@
     <!-- CSS-->
     <link href="styles/reset.css" rel="stylesheet" media="all" />
     <link href="style.css" rel="stylesheet" media="all" />
-</head>
 
-<body>
     <div class="mainDetails">
         <div id="ronnskshot">
             <a href="https://www.linkedin.com/in/ronald-kato-94385116b/" target="_blank"><img src="ronnsk.jpg" width="100%" alt="Ronald Kato"></a>
@@ -201,6 +187,3 @@
             <div class="clear" id="lastBoader"></div>
         </section>
     </div>
-</body>
-
-</html>
