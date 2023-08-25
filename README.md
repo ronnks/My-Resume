@@ -1,5 +1,4 @@
 
-<body>
     <div class="mainDetails">
         <div id="ronnskshot">
             <a href="https://www.linkedin.com/in/ronald-kato-94385116b/" target="_blank"><img src="ronnsk.jpg" width="100%" alt="Ronald Kato"></a>
@@ -175,4 +174,3 @@
             <div class="clear" id="lastBoader"></div>
         </section>
     </div>
-</body>
